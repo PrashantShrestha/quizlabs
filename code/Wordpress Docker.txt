@@ -1,0 +1,11 @@
+docker compose version
+
+docker compose up -d
+
+
+http://localhost:8000/
+
+
+
+UserName root
+password 0aMw0EEJEbhj2wUnga

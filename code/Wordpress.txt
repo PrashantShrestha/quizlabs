@@ -1,0 +1,240 @@
+Zoom ID
+851 9882 3252
+239163
+
+1.Prashantshrestha    http://prashantshrestha.com.np/  notworking
+2.PrashantManshrestha  https://www.prashantmanshrestha.com.np/   Working
+3.shresthaprashant https://shresthaprashant.com.np/  Working
+4.pShrestha http://pshrestha.com.np/ NotWorking
+5.Sprashant http://sprashant.com.np/ NotWorking
+6.PrashantS https://prashants.com.np/ Working
+
+
+prashantshrestha gone
+PrashantManshrestha.info.np avaliable
+shresthaprashant.info.np avaliable
+pShrestha.info.np avaliable
+Sprashant.info.np avaliable
+PrashantS.info.np avaliable
+
+company ko lai
+
+PAN
+Company Registered Documnet
+Letter Head 
+Stamp
+
+
+https://classroom.google.com/c/NjQyNjA3MjI1NjU1?cjc=ijqw7gt
+
+Username : Testsite
+Password : @LOsy8SU$Wo&FN!Rw1
+
+Zoom
+873 4950 0358
+378497
+
+wamp64 > www > paste (wordpress)
+
+C:\xampp\htdocs > paste (wordpress)
+
+
+
+USERNAME : adimn
+Password : admin
+
+
+Php 
+USERNAME : root
+password : blank
+
+https://prashantnewar.blogspot.com/
+
+Docker Wordpress Login
+Username SushantShrestha
+Password g)J(bmh*QK@fefzo%6
+
+
+use : hooks
+
+
+home about contact 
+
+
+https://localhost/testsite/wp-content/uploads/2023/12/biodata.pdf
+
+https://localhost/testsite/wp-content/uploads/2023/12/biodata.pdf
+
+https://localhost/testsite/wp-content/uploads/dlm_uploads/2023/12/Book1.pdf
+
+
+
+
+
+App Devlopment
+
+CuponCode wcmp2024
+
+
+
+Dat -- 5
+1. login in to Php first > 
+Default : 
+Username : root
+Password : Blank
+
+click dataBase 
+create new data base 
+Database Name : testsite (create)
+
+2.Wordpress >
+Database Name : testsite (same name as in php)
+
+This is the usename and password to access the dataBase
+Username : root
+Password : Blank
+
+change as that of ur choice
+username : Admin
+password :admin@123
+
+
+
+    Web Development
+    Graphic Design
+    Social Media Marketing
+    Domain Hosting Manage
+    Training & Consulting
+    App Development
+
+Portfolio
+Blog
+Contact
+
+News Fonts
+
+Khand
+Mukta
+
+website Fonts
+roboto
+popines
+monserat
+
+#F3F8F8
+
+
+
+1 For Blog
+1. Go to Posts  
+    This is Post 1
+	This is Post 2
+	This is Post 3
+	
+2. In Post Categories (remove - uncategorized )
+3. Featured Image ( Select the Image )
+
+			UPDATE
+			
+Now 
+1. Go To Pages
+2. Home (edit with elementor)
+3. Select Container 
+		Edit Container >
+		Heading >
+		Type - latest Posts >
+		Then Alignment >
+		Center
+		
+4. Select Container
+		Edit Container >
+
+5.  Edit Post
+		Content
+		Layout > Skins > Cards > 3
+		Post per Page > 3
+		
+		Title > Show
+		Excerpt > Show
+		
+		Meta Data > Author
+		
+		Read More > Show
+		
+		Automatically align buttons > Show
+		
+		Open In NewWindow (Optional) > Show
+		
+		Query > Asc Order.
+	
+	Edit Post
+		Style >
+		Content > 
+		Read More > 
+			Typography > 
+				Transform > 
+					Capatlize
+					
+--------------------------
+
+Scrolling text		
+	Elementor >
+		Add New Container >
+			Direct Container >
+				Elementor >
+					Image Carousel >
+						Content > Image Carousel 
+						Add Images >
+						Creata a New Gallery >
+						Insert Gallery 
+						
+		Style >
+			Navigation >
+			Arrow > Position > Outside
+			Pagination > Position > Outside
+		
+		
+		
+		
+		max_execution_time
+		max_input_time
+		
+		https://bijaykumal.com.np/wp-content/uploads/2023/08/Untitled-design-12.png
+		
+		
+		
+		
+		
+
+
+PROBLEMS
+
+
+1. Blog is not being Updates....
+2. Change the background of only one blog.
+3. Menu Color
+
+		
+		
+		
+		Now			applicants - 1539430 	Total Shares 	- 24900000  Shares applied - 29618860		
+		deadline 	applicants - 1156434	Applied Shares 	- 20895760
+								---------			        ----------
+			New applicants 	   - 382994		Applied Shares  - 4004240
+			
+			finally 4L applicants for 40L shares
+			so the ratio would me 10 shares each.
+
+localhost\ecoomerce\aD6qq8Q83.php
+
+
+
+
+Emergency recovery script has been installed successfully!
+You can access it on the URL below with the following password: kzrbtppr. More details are available in the Support tab:
+http://localhost/movies/wp-content/wpr_recovery_xscthlekbzhwclqlslfjpaedmbecfxid.php
+
+
+Backlinks
+
+Tablautes
